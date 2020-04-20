@@ -1,0 +1,17 @@
+.navigation img {
+	height: 70px;
+	width: auto;
+}
+
+.navigation {
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.Tilt {
+	background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 100%);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
