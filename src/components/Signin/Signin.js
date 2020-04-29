@@ -29,9 +29,9 @@ class Signin extends React.Component {
                 password: this.state.signinPassword
             })
         }).then(resp => resp.json())
-        .then(results => {
-            if(results.id){
-                this.props.loadUser(results);
+        .then(user => {
+            if(user.id){
+                this.props.loadUser(user);
                 this.props.routeChange('home')
             }
             else{
@@ -79,7 +79,7 @@ class Signin extends React.Component {
                     value="Sign in"/>
                     </div>
                     <div className="lh-copy mt3">
-                    <p onClick={() => routeChange('register')} className="f6 link dim black db">Register</p>
+                    <p onClick={() => routeChange('register')} className="f6 pointer link dim black db">Register</p>
                     </div>
                     </div>
                 </main>
