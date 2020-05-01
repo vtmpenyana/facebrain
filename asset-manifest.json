@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/facebrain/static/css/main.3e3d5b0f.chunk.css",
+    "main.js": "/facebrain/static/js/main.f052a074.chunk.js",
+    "main.js.map": "/facebrain/static/js/main.f052a074.chunk.js.map",
+    "runtime-main.js": "/facebrain/static/js/runtime-main.1c7e8e86.js",
+    "runtime-main.js.map": "/facebrain/static/js/runtime-main.1c7e8e86.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/facebrain/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.eddf9f79.chunk.js": "/facebrain/static/js/2.eddf9f79.chunk.js",
+    "static/js/2.eddf9f79.chunk.js.map": "/facebrain/static/js/2.eddf9f79.chunk.js.map",
+    "index.html": "/facebrain/index.html",
+    "precache-manifest.ed9a2f1ed85d427e7f618b6f8dafc6a6.js": "/facebrain/precache-manifest.ed9a2f1ed85d427e7f618b6f8dafc6a6.js",
+    "service-worker.js": "/facebrain/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/facebrain/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.3e3d5b0f.chunk.css.map": "/facebrain/static/css/main.3e3d5b0f.chunk.css.map",
+    "static/js/2.eddf9f79.chunk.js.LICENSE.txt": "/facebrain/static/js/2.eddf9f79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c7e8e86.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.eddf9f79.chunk.js",
+    "static/css/main.3e3d5b0f.chunk.css",
+    "static/js/main.f052a074.chunk.js"
+  ]
+}
