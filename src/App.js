@@ -101,7 +101,7 @@ class App extends React.Component {
     .then(response => {
       this.drawBox(this.calculateFaceLocation(response));
       if(response){
-        fetch('http://localhost:3000/image', {
+        fetch('https://secure-hamlet-53424.herokuapp.com/image', {
           method: 'put',
           headers: {'Content-Type': 'application/json'},
           body: JSON.stringify({

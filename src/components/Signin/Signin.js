@@ -19,7 +19,7 @@ class Signin extends React.Component {
     }
 
     onSignin = () => {
-        fetch('http://localhost:3000/signin', {
+        fetch('https://secure-hamlet-53424.herokuapp.com/signin', {
             method: 'post',
             headers: {
                 'Content-Type': 'application/json'
@@ -39,7 +39,7 @@ class Signin extends React.Component {
             }
         })
         .catch(err => {
-            console.log(err);
+            console.log("Something went wrong");
         })
     }
  
