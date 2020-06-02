@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "caed08fc6ed21762c631e3957325d528",
+    "revision": "d277926167bc199e4f863cfafd368ad1",
     "url": "/facebrain/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facebrain/static/css/2.66b7f74f.chunk.css"
   },
   {
-    "revision": "164a5aad561056f62fd9",
+    "revision": "50f81cf05809bda383ab",
     "url": "/facebrain/static/css/main.3e3d5b0f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facebrain/static/js/2.eddf9f79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "164a5aad561056f62fd9",
-    "url": "/facebrain/static/js/main.f052a074.chunk.js"
+    "revision": "50f81cf05809bda383ab",
+    "url": "/facebrain/static/js/main.f891e378.chunk.js"
   },
   {
     "revision": "627e1779b32a0bc14d06",
