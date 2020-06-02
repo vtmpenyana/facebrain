@@ -9,6 +9,7 @@ const Rank = (props) => {
 			<div className='center'>
 				<p className='mt0'>{`#${props.count}`}</p>
 			</div>
+			<p className='tc f4'> paste a link to an image with a face, this app will detect face in images you provide </p>
 		</div>
 	)
 }
